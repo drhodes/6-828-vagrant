@@ -18,10 +18,10 @@ $ cd 6-828-vagrant
 $ vagrant up 
 ```
 
-At this point, depending on the speed of your network, it's going to
-take about probably about 15 minutes with fast internet and a decent
-desktop. Vagrant has to grab an ubuntu disk image, download some
-packages and build qemu. When vagrant is done,
+Depending on the speed of your network, it's going to take about 15
+minutes with fast internet and a decent desktop. Vagrant has to grab
+an ubuntu disk image, download some packages and build qemu. When
+vagrant is done,
 
     6-828-vagrant$ vagrant ssh
     
