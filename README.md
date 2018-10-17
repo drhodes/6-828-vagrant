@@ -1,5 +1,3 @@
-This project aims to help people learn GDB.
-
 Getting Started
 ----
 
