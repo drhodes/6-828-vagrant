@@ -3,7 +3,7 @@
 U=vagrant
 UHOME=/home/$U
 
-hostname 6828
+echo 6828 > /etc/hostname 
 
 echo 'export PATH=${PATH}:'$UHOME/qemu-build/bin >> $UHOME/.bashrc
 
